@@ -1,7 +1,6 @@
 ### Hi there 👋
 Backend developer with a passion for technology and constant improvement. Let's shape the future through code!
 [[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)]
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://Fatih_kd.com)
 
 <!--
 **kdingin/kdingin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
