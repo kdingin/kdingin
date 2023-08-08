@@ -1,6 +1,6 @@
 ### Hi there 👋
 Backend developer with a passion for technology and constant improvement. Let's shape the future through code!
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)]
+![Sparkline](https://stars.medv.io/Naereen/badges.svg)]
 
 
 <!--
