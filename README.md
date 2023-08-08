@@ -1,6 +1,6 @@
 ### Hi there 👋
 Backend developer with a passion for technology and constant improvement. Let's shape the future through code!
-[![Instagram Badge]([https://img.shields.io/badge/](https://www.instagram.com/fatihkd1/)-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](link))
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kdingin&show_icons=true&theme=gradient)
 <!--
 **kdingin/kdingin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
