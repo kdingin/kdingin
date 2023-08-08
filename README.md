@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Backend developer with a passion for technology and constant improvement. Let's shape the future through code!
 <!--
 **kdingin/kdingin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
