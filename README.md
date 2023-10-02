@@ -1,5 +1,5 @@
 ### Hi! Welcome to my Github Profile 👋
-I'm Fatih Küçükdingin, a backend developer driven by a passion for technology and constant improvement. Let's shape the future through code!
+I'm Fatih Küçükdingin, a Backend Developer. I take pleasure in working in this field and constantly striving for improvement. I'm always ready for collaboration and coding together.
 
 
 <!--
