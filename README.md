@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Küçükdingin</h1>
-<h3 align="center">Creative .NET Backend Developer | Türkiye</h3>
+<h3 align="center">Creative Software Developer | Türkiye</h3>
 
 
 
